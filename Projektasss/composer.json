@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "name": "Imoniu Saraso App",
+        "description": "Imoniu saraso svetaine",
+        "psr-4": {
+            "Imones\\": "app"
+        }
+    }
+}
